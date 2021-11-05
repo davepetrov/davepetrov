@@ -1,6 +1,6 @@
 ### Hey Hey 👋
 
-- Software Development Engineer at @Mastercard
+- SoftwarE Engineer at @Mastercard
 - I attend University of Toronto for Software Engineering
 - 📫 Add me on Discord Sane#9120
 
