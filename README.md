@@ -1,4 +1,6 @@
-- Software Developer at @Mastercard
-- I attend University of Toronto for Software Engineering
+# Hello, I'm David 👋👨‍💻
 
-[![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=davepetrov&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my GitHub! I'm a passionate software engineer who loves building solutions and exploring new technologies. Here, you'll find my projects and contributions
+
+## Work
+Currently, im a backend engineer @ Mastercard. Prev @ TD
